@@ -19,8 +19,8 @@ To get started, follow below steps:
 4. Make `chains.d` directory.
 
 5. Make [okp4.yml](okp4.yml) file in `chains.d` directory.
-   In this case `okp4` will be label.
-   You can make file what you want to been label like `<monitoring label>.yml`.
+   <br>In this case `okp4` will be label.
+   <br>You can make file what you want to been label like `<monitoring label>.yml`.
 
 6. Edit `okp4.yml` based on your validator and preferences:
 
