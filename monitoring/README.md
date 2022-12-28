@@ -12,7 +12,7 @@ To get started, follow below steps:
 
 3. Edit `config.yml` based on your preferences:
 
-   - Set listening port
+   - Set listen port
    - Get API keys (Discord, Telegram, PagerDuty) and set your alert config
    - etc.
 
