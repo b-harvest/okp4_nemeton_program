@@ -20,7 +20,7 @@ To get started, follow below steps:
 
 5. Make [okp4.yml](okp4.yml) file in `chains.d` directory.
    <br>In this case `okp4` will be label.
-   <br>You can make file what you want to been label like `<monitoring label>.yml`.
+   <br>You can name file what you want as label like `<monitoring label>.yml`.
 
 6. Edit `okp4.yml` based on your validator and preferences:
 
@@ -29,4 +29,4 @@ To get started, follow below steps:
    - Add RPC endpoints (must be `protocol://hostname:port`)
    - etc.
 
-7. Start service and access service page (e.g. `http://localhost:8888`)
+7. Start service and access tenderduty monitoring page (e.g. `http://localhost:8888`)
